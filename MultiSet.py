@@ -29,4 +29,3 @@ class Multiset:
     def __len__(self):
         # returns the number of elements in the multiset
         return len(self.arr)
-if __name__ == '__main__':
